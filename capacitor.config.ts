@@ -1,10 +1,15 @@
-import { CapacitorConfig } from '@capacitor/cli';
+import { CapacitorConfig } from "@capacitor/cli";
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'vueapp',
-  webDir: 'dist',
-  bundledWebRuntime: false
+  appId: "com.carrot.maxgun",
+  appName: "vueapp",
+  webDir: "dist",
+  bundledWebRuntime: false,
+  plugins: {
+    PushNotifications: {
+      presentationOptions: ["badge", "sound", "alert"],
+    },
+  },
 };
 
 export default config;

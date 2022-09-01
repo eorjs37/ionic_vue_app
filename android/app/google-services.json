@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450796426668",
+    "project_id": "vueapp-2c9b1",
+    "storage_bucket": "vueapp-2c9b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450796426668:android:c1993ef1585081afbb5609",
+        "android_client_info": {
+          "package_name": "com.carrot.maxgun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450796426668-46o38tckv7ss0ia9svcu97no7c7hql9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpqKrIYE50bCzXWUk3QaGOtIy0Y_XEV44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450796426668-46o38tckv7ss0ia9svcu97no7c7hql9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
